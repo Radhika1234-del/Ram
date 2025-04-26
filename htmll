@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Congratulations Ramudu Garu!</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎉 Congratulations Ramudu garu! 🎉</h1>
+    <p>You just hit <span class="highlight">30,000</span> followers on Instagram!</p>
+    <p class="love">Much love and respect to your journey ❤️</p>
+  </div>
+
+  <canvas id="confetti"></canvas>
+
+  <script src="confetti.js"></script>
+</body>
+</html>
